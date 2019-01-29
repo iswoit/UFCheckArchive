@@ -1,0 +1,9 @@
+D:\Codes\C#\UFCheckArchive\UFCheckArchive\bin\Debug\UFCheckArchive.exe
+D:\Codes\C#\UFCheckArchive\UFCheckArchive\bin\Debug\UFCheckArchive.pdb
+D:\Codes\C#\UFCheckArchive\UFCheckArchive\obj\Debug\UFCheckArchive.Properties.Resources.resources
+D:\Codes\C#\UFCheckArchive\UFCheckArchive\obj\Debug\UFCheckArchive.csproj.GenerateResource.Cache
+D:\Codes\C#\UFCheckArchive\UFCheckArchive\obj\Debug\UFCheckArchive.exe
+D:\Codes\C#\UFCheckArchive\UFCheckArchive\obj\Debug\UFCheckArchive.pdb
+D:\Codes\C#\UFCheckArchive\UFCheckArchive\bin\Debug\UFCheckArchive.exe.config
+D:\Codes\C#\UFCheckArchive\UFCheckArchive\obj\Debug\UFCheckArchive.UFCheckArchiveView.resources
+D:\Codes\C#\UFCheckArchive\UFCheckArchive\bin\Debug\Oracle.ManagedDataAccess.dll
